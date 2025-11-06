@@ -6,11 +6,10 @@
 2. [Key Features](#key-features)
 3. [Highlights](#highlights)
 4. [Insights](#insights)
-5. [Full Report](#full-report)
-6. [Usage](#usage)
-7. [Contribution](#contribution)
-8. [Conclusion](#conclusion)
-9. [About the Maintainer](#about-the-maintainer)
+5. [Usage](#usage)
+6. [Contribution](#contribution)
+7. [Conclusion](#conclusion)
+8. [About the Maintainer](#about-the-maintainer)
 
 ---
 ## Project Overview
@@ -85,19 +84,6 @@ This project intricately analyzes the U.S. healthcare landscape from 2019 to 202
 
 ---
 
-## Full Report
-
-For a detailed report and interactive analysis, refer to the [U.S. Healthcare Dynamics Insights Report](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/blob/main/docs/project_synopsis.docx).
-
-
-<p align="left">
-  <a href="https://youtu.be/PVvWitwDRGg?si=fe24BF-klaIVt9Ys">
-    <img src="https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube" alt="Watch on YouTube">
-  </a>
-</p>
-
----
-
 ## Usage
 
 1. **Clone the Repository:**
@@ -121,8 +107,6 @@ Find issues, suggest enhancements, or contribute to the project by opening an [i
 
 ---
 
-
-[![License](https://img.shields.io/badge/License-MIT-silver)](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/blob/main/LICENSE)
 
 This PowerBI-driven initiative is licensed under the [MIT License](LICENSE), focusing on providing comprehensive insights into the U.S. healthcare industry from 2019 to 2020. The meticulously designed reports and visualizations offer strategic intelligence for stakeholders in the healthcare landscape.
 
@@ -165,4 +149,3 @@ I am a data-driven analyst with expertise in business intelligence, predictive a
 Feel free to connect or reach out:
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-ABHINAV%20VARMA%20KONDERU-blue?logo=linkedin)](https://www.linkedin.com/in/abhinav-varma-konderu-63491b21a/)
 - **Email:** abhinavvarmaa723@gmail.com
-- **GitHub:** [your-github-username]
